@@ -1,1 +1,3 @@
-npm i amazon-cognito
+npm i amazon-cognito-identity-js
+
+
